@@ -1,0 +1,34 @@
+{
+  "Employe": [
+    {
+      "firstname": "jhgfhjf",
+      "lastname": "jhf",
+      "address": "madhapur",
+      "id": 1
+    },
+    {
+      "firstname": "jhgfhjf",
+      "lastname": "jhf",
+      "address": "slkghdsfafghjk",
+      "id": 2
+    },
+    {
+      "firstname": ",hgfdx",
+      "lastname": "kjhgfghjkl;",
+      "address": "mysur",
+      "id": 3
+    },
+    {
+      "firstname": "mnbvcb",
+      "lastname": "ghjklhgf",
+      "address": "miyapur",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "jhansi@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
